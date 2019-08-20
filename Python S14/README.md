@@ -7,7 +7,7 @@
 
 课程结构，6个阶段（疗程）
 
-***疗程1，语言基础 (5-6周)***
+***疗程1 语言基础 (5-6周)***
 
 数据类型  
 流程控制  
@@ -68,3 +68,17 @@ CMDB资产管理开发
 Docker自动化管理平台开发  
 OpenStack二次开发   
 
+## week 01  
+第一周-第01章节-Python3.5-开课介绍  
+第一周-第02章节-Python3.5-开课介绍2  
+
+Python干啥：运维，自动化开发，网络架站，数据分析，爬虫  
+云计算，openStack  
+WEB，Django  
+科学计算， numpy，Scipy  
+
+第一周-第06章节-Python3.5-第一个python程序  
+
+Python3的改变Unicode support，可以支持中文的字符编码。但是Twisted还不是100%支持Python3  
+
+[第一周技术博客](http://www.cnblogs.com/alex3714/articles/5885096.html)
