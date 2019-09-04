@@ -1,3 +1,6 @@
-# LinuxOperation-Oldboy
-Learn Linux Operation With Oldboy (跟老男孩学Linux运维)  
-PYTHON自动化开发 第14期  Python 14  
+# LinuxOperation Linux运维  
+# 目录
+
+[Python3视频教程爬虫运维网络Django基础进阶2017 第14期](./docs/Python-S14/Python-S14.md)
+
+
