@@ -14,5 +14,3 @@ name2 = name
 print("My name is ",name,name2)
 name = "Louis"
 print("My name is ",name,name2)
-
-
