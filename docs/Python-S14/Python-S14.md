@@ -62,6 +62,9 @@ Docker自动化管理平台开发
 OpenStack二次开发     
 
 ## [第一周 共14章节](./第01周-共14章节.md)
+
+介绍、基本语法、流程控制  
+
 第一周-第01章节-Python3.5-开课介绍  
 第一周-第02章节-Python3.5-开课介绍2  
 
@@ -77,4 +80,3 @@ Python3的改变Unicode support，可以支持中文的字符编码。但是Twis
 [第一周技术博客](http://www.cnblogs.com/alex3714/articles/5885096.html)
 
 ## [第二周 共14章节](./第02周-共14章节.md)  
-
