@@ -77,6 +77,16 @@ WEB，Django
 
 Python3的改变Unicode support，可以支持中文的字符编码。但是Twisted还不是100%支持Python3  
 
+变量、字符编码、if-else for循环 while循环  
+
 [第一周技术博客](http://www.cnblogs.com/alex3714/articles/5885096.html)
 
 ## [第二周 共14章节](./第02周-共14章节.md)  
+
+- 模块  
+- pyc是什么  
+- 数据类型  
+- 列表使用  
+- 元组  
+- 字典  
+- 以三级菜单为例，体现多级字典的使用  
